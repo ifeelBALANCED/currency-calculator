@@ -1,0 +1,9 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render FromCurrency (Select) component Has props should call onSelectChange function with a value 1`] = `ShallowWrapper {}`;
+
+exports[`should render FromCurrency (Select) component Has props should render FromCurrency component with props 1`] = `
+<Select
+  name="from"
+/>
+`;

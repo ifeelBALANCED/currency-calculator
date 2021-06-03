@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ConverterTitle component should render ConverterTitle component with props 1`] = `
+<Heading
+  as="h2"
+  size="xl"
+>
+  Some title
+   
+</Heading>
+`;
+
+exports[`should render ConverterTitle component should render ConverterTitle component without props 1`] = `
+<Heading
+  as="h2"
+  size="xl"
+>
+   
+</Heading>
+`;

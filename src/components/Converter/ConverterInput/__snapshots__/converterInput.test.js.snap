@@ -1,0 +1,21 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ConverterInput component should test ConverterInput inner elements should contain input 1`] = `null`;
+
+exports[`should render ConverterInput component should test ConverterInput inner elements should render ConverterInput component with props 1`] = `
+<Input
+  mt={5}
+  name="amount"
+  onChange={[Function]}
+  type="text"
+  value={9}
+/>
+`;
+
+exports[`should render ConverterInput component should test ConverterInput inner elements should render ConverterInput component without props 1`] = `
+<Input
+  mt={5}
+  name="amount"
+  type="text"
+/>
+`;

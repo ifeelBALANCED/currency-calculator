@@ -1,0 +1,11 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render ConverterButton component should render button component 1`] = `
+<Button
+  colorScheme="teal"
+  mt={4}
+  onClick={[Function]}
+>
+  Convert
+</Button>
+`;

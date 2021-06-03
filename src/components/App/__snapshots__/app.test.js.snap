@@ -1,0 +1,2097 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should render App component Have no props should render App component without props 1`] = `
+<ChakraProvider
+  theme={
+    Object {
+      "blur": Object {
+        "2xl": "40px",
+        "3xl": "64px",
+        "base": "8px",
+        "lg": "16px",
+        "md": "12px",
+        "none": 0,
+        "sm": "4px",
+        "xl": "24px",
+      },
+      "borders": Object {
+        "1px": "1px solid",
+        "2px": "2px solid",
+        "4px": "4px solid",
+        "8px": "8px solid",
+        "none": 0,
+      },
+      "breakpoints": Object {
+        "2xl": "96em",
+        "base": "0em",
+        "lg": "62em",
+        "md": "48em",
+        "sm": "30em",
+        "xl": "80em",
+      },
+      "colors": Object {
+        "black": "#000000",
+        "blackAlpha": Object {
+          "100": "rgba(0, 0, 0, 0.06)",
+          "200": "rgba(0, 0, 0, 0.08)",
+          "300": "rgba(0, 0, 0, 0.16)",
+          "400": "rgba(0, 0, 0, 0.24)",
+          "50": "rgba(0, 0, 0, 0.04)",
+          "500": "rgba(0, 0, 0, 0.36)",
+          "600": "rgba(0, 0, 0, 0.48)",
+          "700": "rgba(0, 0, 0, 0.64)",
+          "800": "rgba(0, 0, 0, 0.80)",
+          "900": "rgba(0, 0, 0, 0.92)",
+        },
+        "blue": Object {
+          "100": "#bee3f8",
+          "200": "#90cdf4",
+          "300": "#63b3ed",
+          "400": "#4299e1",
+          "50": "#ebf8ff",
+          "500": "#3182ce",
+          "600": "#2b6cb0",
+          "700": "#2c5282",
+          "800": "#2a4365",
+          "900": "#1A365D",
+        },
+        "current": "currentColor",
+        "cyan": Object {
+          "100": "#C4F1F9",
+          "200": "#9DECF9",
+          "300": "#76E4F7",
+          "400": "#0BC5EA",
+          "50": "#EDFDFD",
+          "500": "#00B5D8",
+          "600": "#00A3C4",
+          "700": "#0987A0",
+          "800": "#086F83",
+          "900": "#065666",
+        },
+        "facebook": Object {
+          "100": "#D9DEE9",
+          "200": "#B7C2DA",
+          "300": "#6482C0",
+          "400": "#4267B2",
+          "50": "#E8F4F9",
+          "500": "#385898",
+          "600": "#314E89",
+          "700": "#29487D",
+          "800": "#223B67",
+          "900": "#1E355B",
+        },
+        "gray": Object {
+          "100": "#EDF2F7",
+          "200": "#E2E8F0",
+          "300": "#CBD5E0",
+          "400": "#A0AEC0",
+          "50": "#F7FAFC",
+          "500": "#718096",
+          "600": "#4A5568",
+          "700": "#2D3748",
+          "800": "#1A202C",
+          "900": "#171923",
+        },
+        "green": Object {
+          "100": "#C6F6D5",
+          "200": "#9AE6B4",
+          "300": "#68D391",
+          "400": "#48BB78",
+          "50": "#F0FFF4",
+          "500": "#38A169",
+          "600": "#2F855A",
+          "700": "#276749",
+          "800": "#22543D",
+          "900": "#1C4532",
+        },
+        "linkedin": Object {
+          "100": "#CFEDFB",
+          "200": "#9BDAF3",
+          "300": "#68C7EC",
+          "400": "#34B3E4",
+          "50": "#E8F4F9",
+          "500": "#00A0DC",
+          "600": "#008CC9",
+          "700": "#0077B5",
+          "800": "#005E93",
+          "900": "#004471",
+        },
+        "messenger": Object {
+          "100": "#B9DAFF",
+          "200": "#A2CDFF",
+          "300": "#7AB8FF",
+          "400": "#2E90FF",
+          "50": "#D0E6FF",
+          "500": "#0078FF",
+          "600": "#0063D1",
+          "700": "#0052AC",
+          "800": "#003C7E",
+          "900": "#002C5C",
+        },
+        "orange": Object {
+          "100": "#FEEBC8",
+          "200": "#FBD38D",
+          "300": "#F6AD55",
+          "400": "#ED8936",
+          "50": "#FFFAF0",
+          "500": "#DD6B20",
+          "600": "#C05621",
+          "700": "#9C4221",
+          "800": "#7B341E",
+          "900": "#652B19",
+        },
+        "pink": Object {
+          "100": "#FED7E2",
+          "200": "#FBB6CE",
+          "300": "#F687B3",
+          "400": "#ED64A6",
+          "50": "#FFF5F7",
+          "500": "#D53F8C",
+          "600": "#B83280",
+          "700": "#97266D",
+          "800": "#702459",
+          "900": "#521B41",
+        },
+        "purple": Object {
+          "100": "#E9D8FD",
+          "200": "#D6BCFA",
+          "300": "#B794F4",
+          "400": "#9F7AEA",
+          "50": "#FAF5FF",
+          "500": "#805AD5",
+          "600": "#6B46C1",
+          "700": "#553C9A",
+          "800": "#44337A",
+          "900": "#322659",
+        },
+        "red": Object {
+          "100": "#FED7D7",
+          "200": "#FEB2B2",
+          "300": "#FC8181",
+          "400": "#F56565",
+          "50": "#FFF5F5",
+          "500": "#E53E3E",
+          "600": "#C53030",
+          "700": "#9B2C2C",
+          "800": "#822727",
+          "900": "#63171B",
+        },
+        "teal": Object {
+          "100": "#B2F5EA",
+          "200": "#81E6D9",
+          "300": "#4FD1C5",
+          "400": "#38B2AC",
+          "50": "#E6FFFA",
+          "500": "#319795",
+          "600": "#2C7A7B",
+          "700": "#285E61",
+          "800": "#234E52",
+          "900": "#1D4044",
+        },
+        "telegram": Object {
+          "100": "#C5E4F3",
+          "200": "#A2D4EC",
+          "300": "#7AC1E4",
+          "400": "#47A9DA",
+          "50": "#E3F2F9",
+          "500": "#0088CC",
+          "600": "#007AB8",
+          "700": "#006BA1",
+          "800": "#005885",
+          "900": "#003F5E",
+        },
+        "transparent": "transparent",
+        "twitter": Object {
+          "100": "#C8E9FB",
+          "200": "#A8DCFA",
+          "300": "#83CDF7",
+          "400": "#57BBF5",
+          "50": "#E5F4FD",
+          "500": "#1DA1F2",
+          "600": "#1A94DA",
+          "700": "#1681BF",
+          "800": "#136B9E",
+          "900": "#0D4D71",
+        },
+        "whatsapp": Object {
+          "100": "#b9f5d0",
+          "200": "#90edb3",
+          "300": "#65e495",
+          "400": "#3cdd78",
+          "50": "#dffeec",
+          "500": "#22c35e",
+          "600": "#179848",
+          "700": "#0c6c33",
+          "800": "#01421c",
+          "900": "#001803",
+        },
+        "white": "#FFFFFF",
+        "whiteAlpha": Object {
+          "100": "rgba(255, 255, 255, 0.06)",
+          "200": "rgba(255, 255, 255, 0.08)",
+          "300": "rgba(255, 255, 255, 0.16)",
+          "400": "rgba(255, 255, 255, 0.24)",
+          "50": "rgba(255, 255, 255, 0.04)",
+          "500": "rgba(255, 255, 255, 0.36)",
+          "600": "rgba(255, 255, 255, 0.48)",
+          "700": "rgba(255, 255, 255, 0.64)",
+          "800": "rgba(255, 255, 255, 0.80)",
+          "900": "rgba(255, 255, 255, 0.92)",
+        },
+        "yellow": Object {
+          "100": "#FEFCBF",
+          "200": "#FAF089",
+          "300": "#F6E05E",
+          "400": "#ECC94B",
+          "50": "#FFFFF0",
+          "500": "#D69E2E",
+          "600": "#B7791F",
+          "700": "#975A16",
+          "800": "#744210",
+          "900": "#5F370E",
+        },
+      },
+      "components": Object {
+        "Accordion": Object {
+          "baseStyle": Object {
+            "button": Object {
+              "_disabled": Object {
+                "cursor": "not-allowed",
+                "opacity": 0.4,
+              },
+              "_focus": Object {
+                "boxShadow": "outline",
+              },
+              "_hover": Object {
+                "bg": "blackAlpha.50",
+              },
+              "fontSize": "1rem",
+              "px": 4,
+              "py": 2,
+            },
+            "container": Object {
+              "_last": Object {
+                "borderBottomWidth": "1px",
+              },
+              "borderColor": "inherit",
+              "borderTopWidth": "1px",
+            },
+            "icon": Object {
+              "fontSize": "1.25em",
+            },
+            "panel": Object {
+              "pb": 5,
+              "pt": 2,
+              "px": 4,
+            },
+          },
+          "parts": Array [
+            "container",
+            "button",
+            "panel",
+            "icon",
+          ],
+        },
+        "Alert": Object {
+          "baseStyle": Object {
+            "container": Object {
+              "px": 4,
+              "py": 3,
+            },
+            "description": Object {
+              "lineHeight": 6,
+            },
+            "icon": Object {
+              "flexShrink": 0,
+              "h": 6,
+              "marginEnd": 3,
+              "w": 5,
+            },
+            "title": Object {
+              "fontWeight": "bold",
+              "lineHeight": 6,
+              "marginEnd": 2,
+            },
+          },
+          "defaultProps": Object {
+            "colorScheme": "blue",
+            "variant": "subtle",
+          },
+          "parts": Array [
+            "container",
+            "title",
+            "description",
+            "icon",
+          ],
+          "variants": Object {
+            "left-accent": [Function],
+            "solid": [Function],
+            "subtle": [Function],
+            "top-accent": [Function],
+          },
+        },
+        "Avatar": Object {
+          "baseStyle": [Function],
+          "defaultProps": Object {
+            "size": "md",
+          },
+          "parts": Array [
+            "container",
+            "excessLabel",
+            "badge",
+            "label",
+          ],
+          "sizes": Object {
+            "2xl": Object {
+              "container": Object {
+                "fontSize": "calc(8rem / 2.5)",
+                "height": "32",
+                "width": "32",
+              },
+              "excessLabel": Object {
+                "height": "32",
+                "width": "32",
+              },
+              "label": Object {
+                "fontSize": "calc(8rem / 2.5)",
+                "lineHeight": "8rem",
+              },
+            },
+            "2xs": Object {
+              "container": Object {
+                "fontSize": "calc(1rem / 2.5)",
+                "height": "4",
+                "width": "4",
+              },
+              "excessLabel": Object {
+                "height": "4",
+                "width": "4",
+              },
+              "label": Object {
+                "fontSize": "calc(1rem / 2.5)",
+                "lineHeight": "1rem",
+              },
+            },
+            "full": Object {
+              "container": Object {
+                "fontSize": "calc(100% / 2.5)",
+                "height": "100%",
+                "width": "100%",
+              },
+              "excessLabel": Object {
+                "height": "100%",
+                "width": "100%",
+              },
+              "label": Object {
+                "fontSize": "calc(100% / 2.5)",
+                "lineHeight": undefined,
+              },
+            },
+            "lg": Object {
+              "container": Object {
+                "fontSize": "calc(4rem / 2.5)",
+                "height": "16",
+                "width": "16",
+              },
+              "excessLabel": Object {
+                "height": "16",
+                "width": "16",
+              },
+              "label": Object {
+                "fontSize": "calc(4rem / 2.5)",
+                "lineHeight": "4rem",
+              },
+            },
+            "md": Object {
+              "container": Object {
+                "fontSize": "calc(3rem / 2.5)",
+                "height": "12",
+                "width": "12",
+              },
+              "excessLabel": Object {
+                "height": "12",
+                "width": "12",
+              },
+              "label": Object {
+                "fontSize": "calc(3rem / 2.5)",
+                "lineHeight": "3rem",
+              },
+            },
+            "sm": Object {
+              "container": Object {
+                "fontSize": "calc(2rem / 2.5)",
+                "height": "8",
+                "width": "8",
+              },
+              "excessLabel": Object {
+                "height": "8",
+                "width": "8",
+              },
+              "label": Object {
+                "fontSize": "calc(2rem / 2.5)",
+                "lineHeight": "2rem",
+              },
+            },
+            "xl": Object {
+              "container": Object {
+                "fontSize": "calc(6rem / 2.5)",
+                "height": "24",
+                "width": "24",
+              },
+              "excessLabel": Object {
+                "height": "24",
+                "width": "24",
+              },
+              "label": Object {
+                "fontSize": "calc(6rem / 2.5)",
+                "lineHeight": "6rem",
+              },
+            },
+            "xs": Object {
+              "container": Object {
+                "fontSize": "calc(1.5rem / 2.5)",
+                "height": "6",
+                "width": "6",
+              },
+              "excessLabel": Object {
+                "height": "6",
+                "width": "6",
+              },
+              "label": Object {
+                "fontSize": "calc(1.5rem / 2.5)",
+                "lineHeight": "1.5rem",
+              },
+            },
+          },
+        },
+        "Badge": Object {
+          "baseStyle": Object {
+            "borderRadius": "sm",
+            "fontSize": "xs",
+            "fontWeight": "bold",
+            "px": 1,
+            "textTransform": "uppercase",
+          },
+          "defaultProps": Object {
+            "colorScheme": "gray",
+            "variant": "subtle",
+          },
+          "variants": Object {
+            "outline": [Function],
+            "solid": [Function],
+            "subtle": [Function],
+          },
+        },
+        "Breadcrumb": Object {
+          "baseStyle": Object {
+            "link": Object {
+              "_focus": Object {
+                "boxShadow": "outline",
+              },
+              "_hover": Object {
+                "textDecoration": "underline",
+              },
+              "color": "inherit",
+              "cursor": "pointer",
+              "outline": "none",
+              "textDecoration": "none",
+              "transition": "all 0.15s ease-out",
+            },
+          },
+          "parts": Array [
+            "container",
+            "item",
+            "link",
+            "separator",
+          ],
+        },
+        "Button": Object {
+          "baseStyle": Object {
+            "_disabled": Object {
+              "boxShadow": "none",
+              "cursor": "not-allowed",
+              "opacity": 0.4,
+            },
+            "_focus": Object {
+              "boxShadow": "outline",
+            },
+            "_hover": Object {
+              "_disabled": Object {
+                "bg": "initial",
+              },
+            },
+            "borderRadius": "md",
+            "fontWeight": "semibold",
+            "lineHeight": "1.2",
+          },
+          "defaultProps": Object {
+            "colorScheme": "gray",
+            "size": "md",
+            "variant": "solid",
+          },
+          "sizes": Object {
+            "lg": Object {
+              "fontSize": "lg",
+              "h": 12,
+              "minW": 12,
+              "px": 6,
+            },
+            "md": Object {
+              "fontSize": "md",
+              "h": 10,
+              "minW": 10,
+              "px": 4,
+            },
+            "sm": Object {
+              "fontSize": "sm",
+              "h": 8,
+              "minW": 8,
+              "px": 3,
+            },
+            "xs": Object {
+              "fontSize": "xs",
+              "h": 6,
+              "minW": 6,
+              "px": 2,
+            },
+          },
+          "variants": Object {
+            "ghost": [Function],
+            "link": [Function],
+            "outline": [Function],
+            "solid": [Function],
+            "unstyled": Object {
+              "bg": "none",
+              "color": "inherit",
+              "display": "inline",
+              "lineHeight": "inherit",
+              "m": 0,
+              "p": 0,
+            },
+          },
+        },
+        "Checkbox": Object {
+          "baseStyle": [Function],
+          "defaultProps": Object {
+            "colorScheme": "blue",
+            "size": "md",
+          },
+          "parts": Array [
+            "container",
+            "control",
+            "label",
+            "icon",
+          ],
+          "sizes": Object {
+            "lg": Object {
+              "control": Object {
+                "h": 5,
+                "w": 5,
+              },
+              "icon": Object {
+                "fontSize": "0.625rem",
+              },
+              "label": Object {
+                "fontSize": "lg",
+              },
+            },
+            "md": Object {
+              "control": Object {
+                "h": 4,
+                "w": 4,
+              },
+              "icon": Object {
+                "fontSize": "0.625rem",
+              },
+              "label": Object {
+                "fontSize": "md",
+              },
+            },
+            "sm": Object {
+              "control": Object {
+                "h": 3,
+                "w": 3,
+              },
+              "icon": Object {
+                "fontSize": "0.45rem",
+              },
+              "label": Object {
+                "fontSize": "sm",
+              },
+            },
+          },
+        },
+        "CloseButton": Object {
+          "baseStyle": [Function],
+          "defaultProps": Object {
+            "size": "md",
+          },
+          "sizes": Object {
+            "lg": Object {
+              "fontSize": "16px",
+              "h": "40px",
+              "w": "40px",
+            },
+            "md": Object {
+              "fontSize": "12px",
+              "h": "32px",
+              "w": "32px",
+            },
+            "sm": Object {
+              "fontSize": "10px",
+              "h": "24px",
+              "w": "24px",
+            },
+          },
+        },
+        "Code": Object {
+          "baseStyle": Object {
+            "borderRadius": "sm",
+            "fontFamily": "mono",
+            "fontSize": "sm",
+            "px": "0.2em",
+          },
+          "defaultProps": Object {
+            "colorScheme": "gray",
+            "variant": "subtle",
+          },
+          "variants": Object {
+            "outline": [Function],
+            "solid": [Function],
+            "subtle": [Function],
+          },
+        },
+        "Container": Object {
+          "baseStyle": Object {
+            "maxW": "60ch",
+            "mx": "auto",
+            "px": "1rem",
+            "w": "100%",
+          },
+        },
+        "Divider": Object {
+          "baseStyle": Object {
+            "borderColor": "inherit",
+            "opacity": 0.6,
+          },
+          "defaultProps": Object {
+            "variant": "solid",
+          },
+          "variants": Object {
+            "dashed": Object {
+              "borderStyle": "dashed",
+            },
+            "solid": Object {
+              "borderStyle": "solid",
+            },
+          },
+        },
+        "Drawer": Object {
+          "baseStyle": [Function],
+          "defaultProps": Object {
+            "size": "xs",
+          },
+          "parts": Array [
+            "overlay",
+            "dialogContainer",
+            "dialog",
+            "header",
+            "closeButton",
+            "body",
+            "footer",
+          ],
+          "sizes": Object {
+            "full": Object {
+              "dialog": Object {
+                "h": "100vh",
+                "maxW": "100vw",
+              },
+            },
+            "lg": Object {
+              "dialog": Object {
+                "maxW": "2xl",
+              },
+            },
+            "md": Object {
+              "dialog": Object {
+                "maxW": "lg",
+              },
+            },
+            "sm": Object {
+              "dialog": Object {
+                "maxW": "md",
+              },
+            },
+            "xl": Object {
+              "dialog": Object {
+                "maxW": "4xl",
+              },
+            },
+            "xs": Object {
+              "dialog": Object {
+                "maxW": "xs",
+              },
+            },
+          },
+        },
+        "Editable": Object {
+          "baseStyle": Object {
+            "input": Object {
+              "_focus": Object {
+                "boxShadow": "outline",
+              },
+              "_placeholder": Object {
+                "opacity": 0.6,
+              },
+              "borderRadius": "md",
+              "py": "3px",
+              "transition": "all 0.2s",
+              "width": "full",
+            },
+            "preview": Object {
+              "borderRadius": "md",
+              "py": "3px",
+              "transition": "all 0.2s",
+            },
+          },
+          "parts": Array [
+            "preview",
+            "input",
+          ],
+        },
+        "Form": Object {
+          "baseStyle": [Function],
+          "parts": Array [
+            "requiredIndicator",
+            "helperText",
+          ],
+        },
+        "FormError": Object {
+          "baseStyle": [Function],
+          "parts": Array [
+            "text",
+            "icon",
+          ],
+        },
+        "FormLabel": Object {
+          "baseStyle": Object {
+            "_disabled": Object {
+              "opacity": 0.4,
+            },
+            "fontSize": "md",
+            "fontWeight": "medium",
+            "marginEnd": 3,
+            "mb": 2,
+            "opacity": 1,
+            "transition": "all 0.2s",
+          },
+        },
+        "Heading": Object {
+          "baseStyle": Object {
+            "fontFamily": "heading",
+            "fontWeight": "bold",
+          },
+          "defaultProps": Object {
+            "size": "xl",
+          },
+          "sizes": Object {
+            "2xl": Object {
+              "fontSize": Array [
+                "4xl",
+                null,
+                "5xl",
+              ],
+              "lineHeight": Array [
+                1.2,
+                null,
+                1,
+              ],
+            },
+            "3xl": Object {
+              "fontSize": Array [
+                "5xl",
+                null,
+                "6xl",
+              ],
+              "lineHeight": 1,
+            },
+            "4xl": Object {
+              "fontSize": Array [
+                "6xl",
+                null,
+                "7xl",
+              ],
+              "lineHeight": 1,
+            },
+            "lg": Object {
+              "fontSize": Array [
+                "2xl",
+                null,
+                "3xl",
+              ],
+              "lineHeight": Array [
+                1.33,
+                null,
+                1.2,
+              ],
+            },
+            "md": Object {
+              "fontSize": "xl",
+              "lineHeight": 1.2,
+            },
+            "sm": Object {
+              "fontSize": "md",
+              "lineHeight": 1.2,
+            },
+            "xl": Object {
+              "fontSize": Array [
+                "3xl",
+                null,
+                "4xl",
+              ],
+              "lineHeight": Array [
+                1.33,
+                null,
+                1.2,
+              ],
+            },
+            "xs": Object {
+              "fontSize": "sm",
+              "lineHeight": 1.2,
+            },
+          },
+        },
+        "Input": Object {
+          "baseStyle": Object {
+            "field": Object {
+              "appearance": "none",
+              "minWidth": 0,
+              "outline": 0,
+              "position": "relative",
+              "transition": "all 0.2s",
+              "width": "100%",
+            },
+          },
+          "defaultProps": Object {
+            "size": "md",
+            "variant": "outline",
+          },
+          "parts": Array [
+            "field",
+            "addon",
+          ],
+          "sizes": Object {
+            "lg": Object {
+              "addon": Object {
+                "borderRadius": "md",
+                "fontSize": "lg",
+                "h": 12,
+                "px": 4,
+              },
+              "field": Object {
+                "borderRadius": "md",
+                "fontSize": "lg",
+                "h": 12,
+                "px": 4,
+              },
+            },
+            "md": Object {
+              "addon": Object {
+                "borderRadius": "md",
+                "fontSize": "md",
+                "h": 10,
+                "px": 4,
+              },
+              "field": Object {
+                "borderRadius": "md",
+                "fontSize": "md",
+                "h": 10,
+                "px": 4,
+              },
+            },
+            "sm": Object {
+              "addon": Object {
+                "borderRadius": "sm",
+                "fontSize": "sm",
+                "h": 8,
+                "px": 3,
+              },
+              "field": Object {
+                "borderRadius": "sm",
+                "fontSize": "sm",
+                "h": 8,
+                "px": 3,
+              },
+            },
+            "xs": Object {
+              "addon": Object {
+                "borderRadius": "sm",
+                "fontSize": "xs",
+                "h": 6,
+                "px": 2,
+              },
+              "field": Object {
+                "borderRadius": "sm",
+                "fontSize": "xs",
+                "h": 6,
+                "px": 2,
+              },
+            },
+          },
+          "variants": Object {
+            "filled": [Function],
+            "flushed": [Function],
+            "outline": [Function],
+            "unstyled": Object {
+              "addon": Object {
+                "bg": "transparent",
+                "height": "auto",
+                "px": 0,
+              },
+              "field": Object {
+                "bg": "transparent",
+                "height": "auto",
+                "px": 0,
+              },
+            },
+          },
+        },
+        "Kbd": Object {
+          "baseStyle": [Function],
+        },
+        "Link": Object {
+          "baseStyle": Object {
+            "_focus": Object {
+              "boxShadow": "outline",
+            },
+            "_hover": Object {
+              "textDecoration": "underline",
+            },
+            "color": "inherit",
+            "cursor": "pointer",
+            "outline": "none",
+            "textDecoration": "none",
+            "transition": "all 0.15s ease-out",
+          },
+        },
+        "List": Object {
+          "baseStyle": Object {
+            "container": Object {},
+            "icon": Object {
+              "display": "inline",
+              "marginEnd": "0.5rem",
+              "verticalAlign": "text-bottom",
+            },
+            "item": Object {},
+          },
+          "parts": Array [
+            "container",
+            "item",
+            "icon",
+          ],
+        },
+        "Menu": Object {
+          "baseStyle": [Function],
+          "parts": Array [
+            "item",
+            "command",
+            "list",
+            "button",
+            "groupTitle",
+            "divider",
+          ],
+        },
+        "Modal": Object {
+          "baseStyle": [Function],
+          "defaultProps": Object {
+            "size": "md",
+          },
+          "parts": Array [
+            "overlay",
+            "dialogContainer",
+            "dialog",
+            "header",
+            "closeButton",
+            "body",
+            "footer",
+          ],
+          "sizes": Object {
+            "2xl": Object {
+              "dialog": Object {
+                "maxW": "2xl",
+              },
+            },
+            "3xl": Object {
+              "dialog": Object {
+                "maxW": "3xl",
+              },
+            },
+            "4xl": Object {
+              "dialog": Object {
+                "maxW": "4xl",
+              },
+            },
+            "5xl": Object {
+              "dialog": Object {
+                "maxW": "5xl",
+              },
+            },
+            "6xl": Object {
+              "dialog": Object {
+                "maxW": "6xl",
+              },
+            },
+            "full": Object {
+              "dialog": Object {
+                "maxW": "100vw",
+                "minH": "100vh",
+              },
+            },
+            "lg": Object {
+              "dialog": Object {
+                "maxW": "lg",
+              },
+            },
+            "md": Object {
+              "dialog": Object {
+                "maxW": "md",
+              },
+            },
+            "sm": Object {
+              "dialog": Object {
+                "maxW": "sm",
+              },
+            },
+            "xl": Object {
+              "dialog": Object {
+                "maxW": "xl",
+              },
+            },
+            "xs": Object {
+              "dialog": Object {
+                "maxW": "xs",
+              },
+            },
+          },
+        },
+        "NumberInput": Object {
+          "baseStyle": [Function],
+          "defaultProps": Object {
+            "size": "md",
+            "variant": "outline",
+          },
+          "parts": Array [
+            "root",
+            "field",
+            "stepper",
+            "stepperGroup",
+          ],
+          "sizes": Object {
+            "lg": Object {
+              "field": Object {
+                "borderRadius": "md",
+                "fontSize": "lg",
+                "h": 12,
+                "paddingInlineEnd": "var(--number-input-field-padding)",
+                "px": 4,
+                "verticalAlign": "top",
+              },
+              "stepper": Object {
+                "_first": Object {
+                  "borderTopEndRadius": "md",
+                },
+                "_last": Object {
+                  "borderBottomEndRadius": "md",
+                  "borderTopWidth": 1,
+                  "mt": "-1px",
+                },
+                "fontSize": "calc(1.125rem * 0.75)",
+              },
+            },
+            "md": Object {
+              "field": Object {
+                "borderRadius": "md",
+                "fontSize": "md",
+                "h": 10,
+                "paddingInlineEnd": "var(--number-input-field-padding)",
+                "px": 4,
+                "verticalAlign": "top",
+              },
+              "stepper": Object {
+                "_first": Object {
+                  "borderTopEndRadius": "md",
+                },
+                "_last": Object {
+                  "borderBottomEndRadius": "md",
+                  "borderTopWidth": 1,
+                  "mt": "-1px",
+                },
+                "fontSize": "calc(1rem * 0.75)",
+              },
+            },
+            "sm": Object {
+              "field": Object {
+                "borderRadius": "sm",
+                "fontSize": "sm",
+                "h": 8,
+                "paddingInlineEnd": "var(--number-input-field-padding)",
+                "px": 3,
+                "verticalAlign": "top",
+              },
+              "stepper": Object {
+                "_first": Object {
+                  "borderTopEndRadius": "sm",
+                },
+                "_last": Object {
+                  "borderBottomEndRadius": "sm",
+                  "borderTopWidth": 1,
+                  "mt": "-1px",
+                },
+                "fontSize": "calc(0.875rem * 0.75)",
+              },
+            },
+            "xs": Object {
+              "field": Object {
+                "borderRadius": "sm",
+                "fontSize": "xs",
+                "h": 6,
+                "paddingInlineEnd": "var(--number-input-field-padding)",
+                "px": 2,
+                "verticalAlign": "top",
+              },
+              "stepper": Object {
+                "_first": Object {
+                  "borderTopEndRadius": "sm",
+                },
+                "_last": Object {
+                  "borderBottomEndRadius": "sm",
+                  "borderTopWidth": 1,
+                  "mt": "-1px",
+                },
+                "fontSize": "calc(0.75rem * 0.75)",
+              },
+            },
+          },
+          "variants": Object {
+            "filled": [Function],
+            "flushed": [Function],
+            "outline": [Function],
+            "unstyled": Object {
+              "addon": Object {
+                "bg": "transparent",
+                "height": "auto",
+                "px": 0,
+              },
+              "field": Object {
+                "bg": "transparent",
+                "height": "auto",
+                "px": 0,
+              },
+            },
+          },
+        },
+        "PinInput": Object {
+          "baseStyle": Object {
+            "appearance": "none",
+            "minWidth": 0,
+            "outline": 0,
+            "position": "relative",
+            "textAlign": "center",
+            "transition": "all 0.2s",
+            "width": "100%",
+          },
+          "defaultProps": Object {
+            "size": "md",
+            "variant": "outline",
+          },
+          "sizes": Object {
+            "lg": Object {
+              "borderRadius": "md",
+              "fontSize": "lg",
+              "h": 12,
+              "w": 12,
+            },
+            "md": Object {
+              "borderRadius": "md",
+              "fontSize": "md",
+              "h": 10,
+              "w": 10,
+            },
+            "sm": Object {
+              "borderRadius": "sm",
+              "fontSize": "sm",
+              "h": 8,
+              "w": 8,
+            },
+            "xs": Object {
+              "borderRadius": "sm",
+              "fontSize": "xs",
+              "h": 6,
+              "w": 6,
+            },
+          },
+          "variants": Object {
+            "filled": [Function],
+            "flushed": [Function],
+            "outline": [Function],
+            "unstyled": Object {
+              "bg": "transparent",
+              "height": "auto",
+              "px": 0,
+            },
+          },
+        },
+        "Popover": Object {
+          "baseStyle": [Function],
+          "parts": Array [
+            "popper",
+            "content",
+            "header",
+            "body",
+            "footer",
+            "arrow",
+          ],
+        },
+        "Progress": Object {
+          "baseStyle": [Function],
+          "defaultProps": Object {
+            "colorScheme": "blue",
+            "size": "md",
+          },
+          "parts": Array [
+            "track",
+            "filledTrack",
+            "label",
+          ],
+          "sizes": Object {
+            "lg": Object {
+              "track": Object {
+                "h": "1rem",
+              },
+            },
+            "md": Object {
+              "track": Object {
+                "h": "0.75rem",
+              },
+            },
+            "sm": Object {
+              "track": Object {
+                "h": "0.5rem",
+              },
+            },
+            "xs": Object {
+              "track": Object {
+                "h": "0.25rem",
+              },
+            },
+          },
+        },
+        "Radio": Object {
+          "baseStyle": [Function],
+          "defaultProps": Object {
+            "colorScheme": "blue",
+            "size": "md",
+          },
+          "parts": Array [
+            "container",
+            "control",
+            "label",
+          ],
+          "sizes": Object {
+            "lg": Object {
+              "control": Object {
+                "h": 5,
+                "w": 5,
+              },
+              "label": Object {
+                "fontSize": "lg",
+              },
+            },
+            "md": Object {
+              "control": Object {
+                "h": 4,
+                "w": 4,
+              },
+              "label": Object {
+                "fontSize": "md",
+              },
+            },
+            "sm": Object {
+              "control": Object {
+                "height": 3,
+                "width": 3,
+              },
+              "label": Object {
+                "fontSize": "sm",
+              },
+            },
+          },
+        },
+        "Select": Object {
+          "baseStyle": [Function],
+          "defaultProps": Object {
+            "size": "md",
+            "variant": "outline",
+          },
+          "parts": Array [
+            "field",
+            "icon",
+          ],
+          "sizes": Object {
+            "lg": Object {
+              "addon": Object {
+                "borderRadius": "md",
+                "fontSize": "lg",
+                "h": 12,
+                "px": 4,
+              },
+              "field": Object {
+                "borderRadius": "md",
+                "fontSize": "lg",
+                "h": 12,
+                "px": 4,
+              },
+            },
+            "md": Object {
+              "addon": Object {
+                "borderRadius": "md",
+                "fontSize": "md",
+                "h": 10,
+                "px": 4,
+              },
+              "field": Object {
+                "borderRadius": "md",
+                "fontSize": "md",
+                "h": 10,
+                "px": 4,
+              },
+            },
+            "sm": Object {
+              "addon": Object {
+                "borderRadius": "sm",
+                "fontSize": "sm",
+                "h": 8,
+                "px": 3,
+              },
+              "field": Object {
+                "borderRadius": "sm",
+                "fontSize": "sm",
+                "h": 8,
+                "px": 3,
+              },
+            },
+            "xs": Object {
+              "addon": Object {
+                "borderRadius": "sm",
+                "fontSize": "xs",
+                "h": 6,
+                "px": 2,
+              },
+              "field": Object {
+                "borderRadius": "sm",
+                "fontSize": "xs",
+                "h": 6,
+                "px": 2,
+              },
+              "icon": Object {
+                "insetEnd": "0.25rem",
+              },
+            },
+          },
+          "variants": Object {
+            "filled": [Function],
+            "flushed": [Function],
+            "outline": [Function],
+            "unstyled": Object {
+              "addon": Object {
+                "bg": "transparent",
+                "height": "auto",
+                "px": 0,
+              },
+              "field": Object {
+                "bg": "transparent",
+                "height": "auto",
+                "px": 0,
+              },
+            },
+          },
+        },
+        "Skeleton": Object {
+          "baseStyle": [Function],
+        },
+        "SkipLink": Object {
+          "baseStyle": [Function],
+        },
+        "Slider": Object {
+          "baseStyle": [Function],
+          "defaultProps": Object {
+            "colorScheme": "blue",
+            "size": "md",
+          },
+          "parts": Array [
+            "container",
+            "thumb",
+            "track",
+            "filledTrack",
+          ],
+          "sizes": Object {
+            "lg": [Function],
+            "md": [Function],
+            "sm": [Function],
+          },
+        },
+        "Spinner": Object {
+          "baseStyle": Object {
+            "height": "var(--spinner-size)",
+            "width": "var(--spinner-size)",
+          },
+          "defaultProps": Object {
+            "size": "md",
+          },
+          "sizes": Object {
+            "lg": Object {
+              "--spinner-size": "2rem",
+            },
+            "md": Object {
+              "--spinner-size": "1.5rem",
+            },
+            "sm": Object {
+              "--spinner-size": "1rem",
+            },
+            "xl": Object {
+              "--spinner-size": "3rem",
+            },
+            "xs": Object {
+              "--spinner-size": "0.75rem",
+            },
+          },
+        },
+        "Stat": Object {
+          "baseStyle": Object {
+            "helpText": Object {
+              "marginBottom": 2,
+              "opacity": 0.8,
+            },
+            "icon": Object {
+              "h": "14px",
+              "marginEnd": 1,
+              "verticalAlign": "middle",
+              "w": "14px",
+            },
+            "label": Object {
+              "fontWeight": "medium",
+            },
+            "number": Object {
+              "fontWeight": "semibold",
+              "verticalAlign": "baseline",
+            },
+          },
+          "defaultProps": Object {
+            "size": "md",
+          },
+          "parts": Array [
+            "label",
+            "number",
+            "icon",
+            "helpText",
+          ],
+          "sizes": Object {
+            "md": Object {
+              "helpText": Object {
+                "fontSize": "sm",
+              },
+              "label": Object {
+                "fontSize": "sm",
+              },
+              "number": Object {
+                "fontSize": "2xl",
+              },
+            },
+          },
+        },
+        "Switch": Object {
+          "baseStyle": [Function],
+          "defaultProps": Object {
+            "colorScheme": "blue",
+            "size": "md",
+          },
+          "parts": Array [
+            "container",
+            "track",
+            "thumb",
+          ],
+          "sizes": Object {
+            "lg": Object {
+              "container": Object {
+                "--slider-track-height": "1.5rem",
+                "--slider-track-width": "2.875rem",
+              },
+            },
+            "md": Object {
+              "container": Object {
+                "--slider-track-height": "1rem",
+                "--slider-track-width": "1.875rem",
+              },
+            },
+            "sm": Object {
+              "container": Object {
+                "--slider-track-height": "0.75rem",
+                "--slider-track-width": "1.375rem",
+              },
+            },
+          },
+        },
+        "Table": Object {
+          "baseStyle": Object {
+            "caption": Object {
+              "fontFamily": "heading",
+              "fontWeight": "medium",
+              "mt": 4,
+              "textAlign": "center",
+            },
+            "table": Object {
+              "borderCollapse": "collapse",
+              "fontVariantNumeric": "lining-nums tabular-nums",
+              "width": "full",
+            },
+            "td": Object {
+              "textAlign": "start",
+            },
+            "th": Object {
+              "fontFamily": "heading",
+              "fontWeight": "bold",
+              "letterSpacing": "wider",
+              "textAlign": "start",
+              "textTransform": "uppercase",
+            },
+          },
+          "defaultProps": Object {
+            "colorScheme": "gray",
+            "size": "md",
+            "variant": "simple",
+          },
+          "parts": Array [
+            "table",
+            "thead",
+            "tbody",
+            "tr",
+            "th",
+            "td",
+            "caption",
+          ],
+          "sizes": Object {
+            "lg": Object {
+              "caption": Object {
+                "fontSize": "md",
+                "px": "6",
+                "py": "2",
+              },
+              "td": Object {
+                "lineHeight": "6",
+                "px": "8",
+                "py": "5",
+              },
+              "th": Object {
+                "fontSize": "sm",
+                "lineHeight": "5",
+                "px": "8",
+                "py": "4",
+              },
+            },
+            "md": Object {
+              "caption": Object {
+                "fontSize": "sm",
+                "px": "6",
+                "py": "2",
+              },
+              "td": Object {
+                "lineHeight": "5",
+                "px": "6",
+                "py": "4",
+              },
+              "th": Object {
+                "fontSize": "xs",
+                "lineHeight": "4",
+                "px": "6",
+                "py": "3",
+              },
+            },
+            "sm": Object {
+              "caption": Object {
+                "fontSize": "xs",
+                "px": "4",
+                "py": "2",
+              },
+              "td": Object {
+                "fontSize": "sm",
+                "lineHeight": "4",
+                "px": "4",
+                "py": "2",
+              },
+              "th": Object {
+                "fontSize": "xs",
+                "lineHeight": "4",
+                "px": "4",
+                "py": "1",
+              },
+            },
+          },
+          "variants": Object {
+            "simple": [Function],
+            "striped": [Function],
+            "unstyled": Object {},
+          },
+        },
+        "Tabs": Object {
+          "baseStyle": [Function],
+          "defaultProps": Object {
+            "colorScheme": "blue",
+            "size": "md",
+            "variant": "line",
+          },
+          "parts": Array [
+            "root",
+            "tablist",
+            "tab",
+            "tabpanels",
+            "tabpanel",
+            "indicator",
+          ],
+          "sizes": Object {
+            "lg": Object {
+              "tab": Object {
+                "fontSize": "1.15rem",
+                "px": "1rem",
+                "py": "0.75rem",
+              },
+            },
+            "md": Object {
+              "tab": Object {
+                "fontSize": "1rem",
+                "px": "1rem",
+                "py": "0.5rem",
+              },
+            },
+            "sm": Object {
+              "tab": Object {
+                "fontSize": "0.85rem",
+                "px": "1rem",
+                "py": "0.25rem",
+              },
+            },
+          },
+          "variants": Object {
+            "enclosed": [Function],
+            "enclosed-colored": [Function],
+            "line": [Function],
+            "soft-rounded": [Function],
+            "solid-rounded": [Function],
+            "unstyled": Object {},
+          },
+        },
+        "Tag": Object {
+          "baseStyle": Object {
+            "closeButton": Object {
+              "_active": Object {
+                "opacity": 1,
+              },
+              "_disabled": Object {
+                "opacity": 0.4,
+              },
+              "_focus": Object {
+                "bg": "rgba(0, 0, 0, 0.14)",
+                "boxShadow": "outline",
+              },
+              "_hover": Object {
+                "opacity": 0.8,
+              },
+              "borderRadius": "full",
+              "fontSize": "18px",
+              "h": "1.25rem",
+              "marginEnd": "-1",
+              "marginStart": "0.375rem",
+              "opacity": 0.5,
+              "w": "1.25rem",
+            },
+            "container": Object {
+              "_focus": Object {
+                "boxShadow": "outline",
+              },
+              "fontWeight": "medium",
+              "lineHeight": 1.2,
+              "outline": 0,
+            },
+            "label": Object {
+              "lineHeight": 1.2,
+            },
+          },
+          "defaultProps": Object {
+            "colorScheme": "gray",
+            "size": "md",
+            "variant": "subtle",
+          },
+          "parts": Array [
+            "container",
+            "label",
+            "closeButton",
+          ],
+          "sizes": Object {
+            "lg": Object {
+              "container": Object {
+                "borderRadius": "md",
+                "fontSize": "md",
+                "minH": 8,
+                "minW": 8,
+                "px": 3,
+              },
+            },
+            "md": Object {
+              "container": Object {
+                "borderRadius": "md",
+                "fontSize": "sm",
+                "minH": "1.5rem",
+                "minW": "1.5rem",
+                "px": 2,
+              },
+            },
+            "sm": Object {
+              "closeButton": Object {
+                "marginEnd": "-2px",
+                "marginStart": "0.35rem",
+              },
+              "container": Object {
+                "borderRadius": "md",
+                "fontSize": "xs",
+                "minH": "1.25rem",
+                "minW": "1.25rem",
+                "px": 2,
+              },
+            },
+          },
+          "variants": Object {
+            "outline": [Function],
+            "solid": [Function],
+            "subtle": [Function],
+          },
+        },
+        "Textarea": Object {
+          "baseStyle": Object {
+            "appearance": "none",
+            "lineHeight": "short",
+            "minHeight": "80px",
+            "minWidth": 0,
+            "outline": 0,
+            "paddingY": "8px",
+            "position": "relative",
+            "transition": "all 0.2s",
+            "width": "100%",
+          },
+          "defaultProps": Object {
+            "size": "md",
+            "variant": "outline",
+          },
+          "sizes": Object {
+            "lg": Object {
+              "borderRadius": "md",
+              "fontSize": "lg",
+              "h": 12,
+              "px": 4,
+            },
+            "md": Object {
+              "borderRadius": "md",
+              "fontSize": "md",
+              "h": 10,
+              "px": 4,
+            },
+            "sm": Object {
+              "borderRadius": "sm",
+              "fontSize": "sm",
+              "h": 8,
+              "px": 3,
+            },
+            "xs": Object {
+              "borderRadius": "sm",
+              "fontSize": "xs",
+              "h": 6,
+              "px": 2,
+            },
+          },
+          "variants": Object {
+            "filled": [Function],
+            "flushed": [Function],
+            "outline": [Function],
+            "unstyled": Object {
+              "bg": "transparent",
+              "height": "auto",
+              "px": 0,
+            },
+          },
+        },
+        "Tooltip": Object {
+          "baseStyle": [Function],
+        },
+      },
+      "config": Object {
+        "cssVarPrefix": "chakra",
+        "initialColorMode": "light",
+        "useSystemColorMode": false,
+      },
+      "direction": "ltr",
+      "fontSizes": Object {
+        "2xl": "1.5rem",
+        "3xl": "1.875rem",
+        "4xl": "2.25rem",
+        "5xl": "3rem",
+        "6xl": "3.75rem",
+        "7xl": "4.5rem",
+        "8xl": "6rem",
+        "9xl": "8rem",
+        "lg": "1.125rem",
+        "md": "1rem",
+        "sm": "0.875rem",
+        "xl": "1.25rem",
+        "xs": "0.75rem",
+      },
+      "fontWeights": Object {
+        "black": 900,
+        "bold": 700,
+        "extrabold": 800,
+        "hairline": 100,
+        "light": 300,
+        "medium": 500,
+        "normal": 400,
+        "semibold": 600,
+        "thin": 200,
+      },
+      "fonts": Object {
+        "body": "-apple-system, BlinkMacSystemFont, \\"Segoe UI\\", Helvetica, Arial, sans-serif, \\"Apple Color Emoji\\", \\"Segoe UI Emoji\\", \\"Segoe UI Symbol\\"",
+        "heading": "-apple-system, BlinkMacSystemFont, \\"Segoe UI\\", Helvetica, Arial, sans-serif, \\"Apple Color Emoji\\", \\"Segoe UI Emoji\\", \\"Segoe UI Symbol\\"",
+        "mono": "SFMono-Regular,Menlo,Monaco,Consolas,\\"Liberation Mono\\",\\"Courier New\\",monospace",
+      },
+      "letterSpacings": Object {
+        "normal": "0",
+        "tight": "-0.025em",
+        "tighter": "-0.05em",
+        "wide": "0.025em",
+        "wider": "0.05em",
+        "widest": "0.1em",
+      },
+      "lineHeights": Object {
+        "10": "2.5rem",
+        "3": ".75rem",
+        "4": "1rem",
+        "5": "1.25rem",
+        "6": "1.5rem",
+        "7": "1.75rem",
+        "8": "2rem",
+        "9": "2.25rem",
+        "base": 1.5,
+        "none": 1,
+        "normal": "normal",
+        "short": 1.375,
+        "shorter": 1.25,
+        "tall": 1.625,
+        "taller": "2",
+      },
+      "radii": Object {
+        "2xl": "1rem",
+        "3xl": "1.5rem",
+        "base": "0.25rem",
+        "full": "9999px",
+        "lg": "0.5rem",
+        "md": "0.375rem",
+        "none": "0",
+        "sm": "0.125rem",
+        "xl": "0.75rem",
+      },
+      "shadows": Object {
+        "2xl": "0 25px 50px -12px rgba(0, 0, 0, 0.25)",
+        "base": "0 1px 3px 0 rgba(0, 0, 0, 0.1), 0 1px 2px 0 rgba(0, 0, 0, 0.06)",
+        "dark-lg": "rgba(0, 0, 0, 0.1) 0px 0px 0px 1px, rgba(0, 0, 0, 0.2) 0px 5px 10px, rgba(0, 0, 0, 0.4) 0px 15px 40px",
+        "inner": "inset 0 2px 4px 0 rgba(0,0,0,0.06)",
+        "lg": "0 10px 15px -3px rgba(0, 0, 0, 0.1), 0 4px 6px -2px rgba(0, 0, 0, 0.05)",
+        "md": "0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06)",
+        "none": "none",
+        "outline": "0 0 0 3px rgba(66, 153, 225, 0.6)",
+        "sm": "0 1px 2px 0 rgba(0, 0, 0, 0.05)",
+        "xl": "0 20px 25px -5px rgba(0, 0, 0, 0.1), 0 10px 10px -5px rgba(0, 0, 0, 0.04)",
+        "xs": "0 0 0 1px rgba(0, 0, 0, 0.05)",
+      },
+      "sizes": Object {
+        "0.5": "0.125rem",
+        "1": "0.25rem",
+        "1.5": "0.375rem",
+        "10": "2.5rem",
+        "12": "3rem",
+        "14": "3.5rem",
+        "16": "4rem",
+        "2": "0.5rem",
+        "2.5": "0.625rem",
+        "20": "5rem",
+        "24": "6rem",
+        "28": "7rem",
+        "2xl": "42rem",
+        "2xs": "16rem",
+        "3": "0.75rem",
+        "3.5": "0.875rem",
+        "32": "8rem",
+        "36": "9rem",
+        "3xl": "48rem",
+        "3xs": "14rem",
+        "4": "1rem",
+        "40": "10rem",
+        "44": "11rem",
+        "48": "12rem",
+        "4xl": "56rem",
+        "5": "1.25rem",
+        "52": "13rem",
+        "56": "14rem",
+        "5xl": "64rem",
+        "6": "1.5rem",
+        "60": "15rem",
+        "64": "16rem",
+        "6xl": "72rem",
+        "7": "1.75rem",
+        "72": "18rem",
+        "7xl": "80rem",
+        "8": "2rem",
+        "80": "20rem",
+        "8xl": "90rem",
+        "9": "2.25rem",
+        "96": "24rem",
+        "container": Object {
+          "lg": "1024px",
+          "md": "768px",
+          "sm": "640px",
+          "xl": "1280px",
+        },
+        "full": "100%",
+        "lg": "32rem",
+        "max": "max-content",
+        "md": "28rem",
+        "min": "min-content",
+        "px": "1px",
+        "sm": "24rem",
+        "xl": "36rem",
+        "xs": "20rem",
+      },
+      "space": Object {
+        "0.5": "0.125rem",
+        "1": "0.25rem",
+        "1.5": "0.375rem",
+        "10": "2.5rem",
+        "12": "3rem",
+        "14": "3.5rem",
+        "16": "4rem",
+        "2": "0.5rem",
+        "2.5": "0.625rem",
+        "20": "5rem",
+        "24": "6rem",
+        "28": "7rem",
+        "3": "0.75rem",
+        "3.5": "0.875rem",
+        "32": "8rem",
+        "36": "9rem",
+        "4": "1rem",
+        "40": "10rem",
+        "44": "11rem",
+        "48": "12rem",
+        "5": "1.25rem",
+        "52": "13rem",
+        "56": "14rem",
+        "6": "1.5rem",
+        "60": "15rem",
+        "64": "16rem",
+        "7": "1.75rem",
+        "72": "18rem",
+        "8": "2rem",
+        "80": "20rem",
+        "9": "2.25rem",
+        "96": "24rem",
+        "px": "1px",
+      },
+      "styles": Object {
+        "global": [Function],
+      },
+      "transition": Object {
+        "duration": Object {
+          "fast": "150ms",
+          "faster": "100ms",
+          "normal": "200ms",
+          "slow": "300ms",
+          "slower": "400ms",
+          "ultra-fast": "50ms",
+          "ultra-slow": "500ms",
+        },
+        "easing": Object {
+          "ease-in": "cubic-bezier(0.4, 0, 1, 1)",
+          "ease-in-out": "cubic-bezier(0.4, 0, 0.2, 1)",
+          "ease-out": "cubic-bezier(0, 0, 0.2, 1)",
+        },
+        "property": Object {
+          "background": "background-color, background-image, background-position",
+          "colors": "background-color, border-color, color, fill, stroke",
+          "common": "background-color, border-color, color, fill, stroke, opacity, box-shadow, transform",
+          "dimensions": "width, height",
+          "position": "left, right, top, bottom",
+        },
+      },
+      "zIndices": Object {
+        "auto": "auto",
+        "banner": 1200,
+        "base": 0,
+        "docked": 10,
+        "dropdown": 1000,
+        "hide": -1,
+        "modal": 1400,
+        "overlay": 1300,
+        "popover": 1500,
+        "skipLink": 1600,
+        "sticky": 1100,
+        "toast": 1700,
+        "tooltip": 1800,
+      },
+    }
+  }
+>
+  <div
+    id="currencyConverterApp"
+  >
+    <section
+      className="currencyConvComponent"
+    >
+      <ColorModeSwitcher />
+      <Converter />
+    </section>
+  </div>
+</ChakraProvider>
+`;
+
+exports[`should render App component should have wrapper and Converter component should have Converter component without props 1`] = `
+<Container>
+  <ConverterTitle
+    title="Currency Converter"
+  />
+  <ConverterInput
+    amount={1}
+    changeHandler={[Function]}
+  />
+  <Flex
+    mt={3}
+  >
+    <FromCurrency
+      allCurrencies={Array []}
+      fromCurrency="USD"
+      onSelectChange={[Function]}
+    />
+    <ToCurrency
+      allCurrencies={Array []}
+      onSelectChange={[Function]}
+      toCurrency="MXN"
+    />
+  </Flex>
+  <ConverterButton
+    convertHandler={[Function]}
+  />
+</Container>
+`;
